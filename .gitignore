@@ -1,3 +1,6 @@
 support/*
 .ipynb_checkpoints/
+*.png
+id_rsa.*
+id_rsa
 
