@@ -3,4 +3,5 @@ support/*
 *.png
 id_rsa.*
 id_rsa
+catboost_info/*
 
