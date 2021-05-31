@@ -4,4 +4,5 @@ support/*
 id_rsa.*
 id_rsa
 catboost_info/*
+final_project/.idea
 
